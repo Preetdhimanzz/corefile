@@ -1,0 +1,2 @@
+# corefile
+async jquery file
